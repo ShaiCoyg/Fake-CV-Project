@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navi {
+    position: fixed;
+    background-color: #333333;
+    overflow: hidden;
+    width: 100%;
+    z-index: 50;
+}
+#info {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+
+#pic {
+    position: relative;
+    left: 20%;
+    height: 200px;
+    width: 250px;
+    top: 60px;
+}
+
+.navi a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.homeCss {
+    background-color: #9A2911;
+
+}
+
+#personalinfotext {
+    position: absolute;
+    left: 20px;
+}
+
+.hr {
+    length: 80px;
+    text-align:left;
+    margin-left:0
+}
+
+#skillssec {
+    position: relative;
+    top: 130px;
+    left: 10px;
+    width: 30%
+}
+
+#skillstable {
+    width: 1000px;
+}
+
+#edu {
+    position: relative;
+    height: 300px;
+    width: 400px;
+    background-color: #e1e1ea;
+    border-radius: 15px;
+    border-color: red;
+    top: 150px;
+    margin: 30px;
+ }
+
+#edu2 {
+    position: relative;
+    height: 300px;
+    width: 400px;
+    background-color: #e1e1ea;
+    border-radius: 15px;
+    border-color: red;
+    top: 150px;
+    margin: 30px;
+}
+.maps
+{
+    position: relative;
+    left: 45px;
+}
+
+.eduinfo {
+    position: relative;
+    left: 50px;
+}
+
+.title {
+    position: relative;
+    left: 20px;
+}
+
+#c5 {
+    position: relative;
+    padding-top:150px;
+}
+
+c6 {
+    position: relative;
+    top: 300px
+}
+#mytb {
+    width: 100%;
+    border: 1px solid dimgrey;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#mour {
+    padding-left: 40px;
+}
+
+#pique {
+    padding-left: 40px;
+}
